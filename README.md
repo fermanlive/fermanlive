@@ -6,7 +6,7 @@ Backend Developer and machine learning Engineer
 
 Lorem ipsum
 
-*   🌍  I'm based in Neiva City of the Sun :sun: :city\_sunrise:
+*   🌍  I'm based in Neiva,Colombia City of the Sun :sun: :city\_sunrise:
 *   🖥️  See my portfolio at [portafolio](http://fermanlive.com)
 *   ✉️  You can contact me at [fernando.link32@gmail.com & fernando.murcia.ing@gmail.com](mailto:fernando.link32@gmail.com & fernando.murcia.ing@gmail.com)
 *   🚀  I'm currently working on [🚀I'm currently working on:](http://fermanlive.com)
@@ -32,6 +32,6 @@ Lorem ipsum
                     </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.github.com/https://github.com/fermanlive" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-fernando-murcia-perdomo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fernandompco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC5SjIObWuHdyzN0qDGc-igA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/https://github.com/fermanlive" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-fernando-murcia-perdomo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fernandompco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC5SjIObWuHdyzN0qDGc-igA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
