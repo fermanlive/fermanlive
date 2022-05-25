@@ -6,7 +6,7 @@ Backend Developer and machine learning Engineer
 
 Lorem ipsum
 
-*   🌍  I'm based in Neiva City of the Sun :sun: :city\_sunrise:
+*   🌍  I'm based in Neiva,Colombia City of the Sun :sun: :city\_sunrise:
 *   🖥️  See my portfolio at [portafolio](http://fermanlive.com)
 *   ✉️  You can contact me at [fernando.link32@gmail.com & fernando.murcia.ing@gmail.com](mailto:fernando.link32@gmail.com & fernando.murcia.ing@gmail.com)
 *   🚀  I'm currently working on [🚀I'm currently working on:](http://fermanlive.com)
