@@ -6,13 +6,13 @@ Backend Developer and machine learning Engineer
 
 Lorem ipsum
 
-*   🌍  I'm based in Neiva,Colombia City of the Sun :sun: :city\_sunrise:
-*   🖥️  See my portfolio at [portafolio](http://fermanlive.com)
-*   ✉️  You can contact me at [fernando.link32@gmail.com & fernando.murcia.ing@gmail.com](mailto:fernando.link32@gmail.com & fernando.murcia.ing@gmail.com)
-*   🚀  I'm currently working on [🚀I'm currently working on:](http://fermanlive.com)
-*   🧠  I'm learning 🧠I'm currently learning: Machine learning especially models with natural language proccesing, computer vision models
-*   🤝  I'm open to collaborating on 🤝I'm open to collaborating on:
-*   ⚡  ⚡Anything else:
+* 🌍 I'm based in Neiva,Colombia City of the Sun :city\_sunrise:
+* 🖥️ See my portfolio at [Portafolio](http://fermanlive.com)
+* ✉️ You can contact me at [fernando.link32@gmail.com](mailto:fernando.link32@gmail.com) & [fernando.murcia.ing@gmail.com](fernando.murcia.ing@gmail.com)
+* 🚀 I'm currently working on [🚀I'm currently working on:](http://fermanlive.com)
+* 🧠 I'm learning 🧠I'm currently learning: Machine learning especially models with natural language proccesing, computer vision models
+* 🤝 I'm open to collaborating on 🤝I'm open to collaborating on:
+* ⚡ Anything else:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fermanlive)](https://github.com/anuraghazra/github-readme-stats)
 
